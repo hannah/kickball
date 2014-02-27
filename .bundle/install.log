@@ -1,0 +1,11 @@
+# Logfile created on 2014-02-27 10:28:29 -0500 by logger.rb/41954
+I, [2014-02-27T10:28:29.300412 #32619]  INFO -- : 0:  coderay (1.1.0) from /Users/christopherwatson/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/coderay-1.1.0.gemspec
+I, [2014-02-27T10:28:29.300800 #32619]  INFO -- : 0:  method_source (0.8.2) from /Users/christopherwatson/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/method_source-0.8.2.gemspec
+I, [2014-02-27T10:28:29.301065 #32619]  INFO -- : 0:  slop (3.4.7) from /Users/christopherwatson/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/slop-3.4.7.gemspec
+I, [2014-02-27T10:28:29.301311 #32619]  INFO -- : 0:  pry (0.9.12.6) from /Users/christopherwatson/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/pry-0.9.12.6.gemspec
+I, [2014-02-27T10:28:29.301564 #32619]  INFO -- : 0:  rack (1.5.2) from /Users/christopherwatson/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-27T10:28:29.301809 #32619]  INFO -- : 0:  rack-protection (1.5.2) from /Users/christopherwatson/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-27T10:28:29.302047 #32619]  INFO -- : 0:  shotgun (0.9) from /Users/christopherwatson/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/shotgun-0.9.gemspec
+I, [2014-02-27T10:28:29.302288 #32619]  INFO -- : 0:  tilt (1.4.1) from /Users/christopherwatson/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-27T10:28:29.302524 #32619]  INFO -- : 0:  sinatra (1.4.4) from /Users/christopherwatson/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-27T10:28:29.302731 #32619]  INFO -- : 0:  bundler (1.5.1) from /Users/christopherwatson/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/bundler-1.5.1.gemspec
