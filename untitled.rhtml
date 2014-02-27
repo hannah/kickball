@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title><%team_name%></title>
+    <title>"team"</title>
     <link rel="stylesheet" href="public/home.css" />
   </head>
 
@@ -9,7 +9,7 @@
     <h1></h1>
 
     <ul>
-      <% players.each do |player| %>
+      <% @simpsons.each do |player| %>
         <li><%= player %></li>
       <% end %>
     </ul>

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title><%= :team_name %></title>
+    <link rel="stylesheet" href="public/home.css" />
+  </head>
+
+  <body>
+    <ul>
+      <% @players.each do |player| %>
+        <li><%= "#{player["first_name"]} #{player["last_name"]} plays #{player["position"]}" %></li>
+      <% end %>
+    </ul>
+  </body>
+</html>
