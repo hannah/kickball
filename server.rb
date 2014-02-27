@@ -1,4 +1,4 @@
-#require 'sinatra'
+require 'sinatra'
 require 'csv'
 
 @roster = []
@@ -22,5 +22,3 @@ end
 def griffin_players
   @roster.select {|player| player["team"] == "Griffin Goats"}
 end
-
-puts griffin_players
