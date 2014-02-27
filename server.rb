@@ -10,7 +10,11 @@ get '/:team_name' do
       @players << row.to_hash
     end
   end
-  erb :index
+  erb :teams
+end
+
+get "/" do
+erb :index
 end
 
 set :public_folder, File.dirname(__FILE__) + '/public'

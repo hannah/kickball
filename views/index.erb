@@ -1,16 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title><%=@team_name %> </title>
-    <link rel="stylesheet" href="public/home.css" />
-  </head>
-
-  <body>
-    <h1><%=@team_name %> </h1>
-    <ul>
-      <% @players.each do |player| %>
-        <li><%= "#{player["first_name"]} #{player["last_name"]} plays #{player["position"]}" %></li>
-      <% end %>
-    </ul>
-  </body>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>League of Cool Kickball Professionals</title>
+  <link rel="stylesheet" href="public/home.css">
+</head>
+<body>
+<h1>League of Cool Kickball Professionals</h1>
+  <ul><li><a href="/Simpson%20Slammers"> Simpson Slammers </a></li>
+      <li><a href="/Jetson%20Jets"> Jetson Jets </a></li>
+      <li><a href="/Flintstone%20Fire"> Flintstone Fire </a></li>
+      <li><a href="/Griffint%20Goats"> Griffin Goats</a></li>
+  </ul>
+</body>
 </html>
